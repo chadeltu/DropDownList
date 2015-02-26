@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DropDownList</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="tv_btn1">btn1</string>
+    <string name="tv_btn2">btn2</string>
+    <string name="tv_btn3">btn3</string>
+</resources>
